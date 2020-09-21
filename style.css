@@ -1,0 +1,57 @@
+img {
+    size: 5px;
+    border-radius: 100%;
+    align: center;
+    height: 200px;
+}
+
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(4, 32, 4);
+    background-color: rgb(163, 180, 163);
+}
+
+
+nav {
+    background-color: rgb(4, 32, 4);
+    color: white;
+    style: inline;
+}
+
+h1 {
+    color: rgb(4, 32, 4);
+    border-bottom: 3px solid rgb(4, 32, 4);
+}
+
+h2 {
+    color: rgb(4, 32, 4);
+    border-bottom: 3px solid rgb(4, 32, 4);
+}
+
+h3 {
+    Color: navy;
+}
+table, th, td {
+    border: 1px dotted black;
+    padding: 10px;
+    color: lightblue;
+    background-color: lightslategray;
+    position: inline-block;
+   
+}
+
+a {
+    color: white;
+}
+
+main {
+    max-height: 50%;
+
+}
+
+footer {
+    background-color: rgb(4, 32, 4);
+    color: white;
+}
+
